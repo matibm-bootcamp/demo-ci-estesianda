@@ -9,9 +9,9 @@ class MathTest {
 	public void testSuma() {
 		assertEquals(2,Math.suma(1,1) );
 	}
-//	@Test
-//	public void testSuma2() {
-//		assertEquals(2, Math.suma(1,1));
-//	}
+	@Test
+	public void testDivide() {
+		assertEquals(2, Math.divide(10, 5));
+	}
 
 }

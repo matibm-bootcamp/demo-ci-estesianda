@@ -13,6 +13,10 @@ public class Math {
 	 * @return entero de x + y
 	 */
 	public static int suma(int x, int y) {
-		return 2;
+		return x + y;
+	}
+	
+	public static int divide(int x, int y) {
+		return x / y;
 	}
 }
