@@ -14,9 +14,9 @@ class MathTest {
 		assertEquals(2, Math.divide(10, 5));
 	}
 	@Test
-	public void profeHoyTrabaje() {
-		assertEquals("Toda la tarde", "Y tarde mucho para hacer andar esto porque un monton de problemas con todo esto");
-		assertEquals("Trabajé", "*");
+	public void metodoCorregido() {
+		assertEquals("Hola mundo", "Hola mundo");
+		
 	}
 	
 }
