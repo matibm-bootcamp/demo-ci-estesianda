@@ -1,4 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: MathTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.023 s - in MathTest
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.03 s <<< FAILURE! - in MathTest
+profeHoyTrabaje  Time elapsed: 0.011 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <Toda la tarde> but was: <Y tarde mucho para hacer andar esto porque un monton de problemas con todo esto>
+	at MathTest.profeHoyTrabaje(MathTest.java:18)
+
