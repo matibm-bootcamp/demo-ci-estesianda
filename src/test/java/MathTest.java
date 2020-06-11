@@ -14,8 +14,6 @@ class MathTest {
 		assertEquals(2, Math.divide(10, 5));
 	}
 
-	public void PruebaEnGit() {
-		assertEquals(2, 2);
-	}
+
 	
 }
